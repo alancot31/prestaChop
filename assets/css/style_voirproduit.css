@@ -1,0 +1,27 @@
+.page{
+    margin-top: 5rem;
+    margin-left: 10rem;
+    display: flex;
+}
+.prix{
+    display: flex;
+}
+.ParaPrix{
+    padding-left: 6px;
+}
+.AlignPanier{
+    display: flex;
+}
+.ajoutpanier{
+    margin-left: 2rem;
+}
+.produitContainer{
+    margin-left: 35%;
+}
+.imgProduit .AlignPanier{
+    text-align: center;
+}
+.imgProduit{
+    display: flex;
+    justify-content: center;
+}
